@@ -10,7 +10,7 @@ Download the `scroll-events.js` file from the releases tab in the repo and inclu
 
 
 
-###Usage
+### Usage
 
 When you want to use the class, first ensure you JS file is linked as a module in your html:
 
