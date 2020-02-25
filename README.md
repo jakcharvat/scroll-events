@@ -18,7 +18,7 @@ When you want to use the class, first ensure you JS file is linked as a module i
 <script src="main.js" type="module"></script>
 ```
 
-<sub><sup>Note: ES6 modules are not supported in all legacy or mobile browsers. To ensure backwards compatibility with all browsers please use an ES6 compiler like `babel` to compile to pre-ES6 syntax.</sup></sub>
+<sup><sup>Note: ES6 modules are not supported in all legacy or mobile browsers. To ensure backwards compatibility with all browsers please use an ES6 compiler like `babel` to compile to pre-ES6 syntax.</sup></sup>
 
 Then, in your JS file, use the ES6 import syntax to obtain access to the package:
 
