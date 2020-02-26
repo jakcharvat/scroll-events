@@ -1,4 +1,4 @@
-import ScrollEvents from '../scroll-events.js'
+import ScrollEvents from './scroll-events.js'
 
 
 const scrollEvents = new ScrollEvents()
